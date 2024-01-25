@@ -1,6 +1,6 @@
 # Sentiment Analysis of Social Media Presence
 
-Traditional healthcare, rooted in practices like Ayurveda, faces challenges in identifying diverse medicinal plants. This study assesses cutting-edge algorithms, including YOLOv8, for real-time plant identification. Leveraging advanced image processing and machine learning, the research aims to enhance accuracy, addressing challenges in Ayurvedic Pharmaceutics. Specifically, the project explores YOLOv8's potential as a robust tool for identifying medicinal plants and raw materials. 
+Developing a sentiment analysis solution to evaluate emotions conveyed in social media content, aiding individuals and organizations in monitoring reputation, customer feedback, and brand perception for informed decision-making.
 
 ## Getting Started
 
